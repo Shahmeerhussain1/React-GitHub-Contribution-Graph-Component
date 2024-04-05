@@ -1,11 +1,11 @@
 {
   "name": "react-github-like-graph",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Component of github everyday work status.",
   "main": "src/ReactGithubLikeGraph.js",
   "files": [
-    "src/*.jsx", 
-    "src/*.css" 
+    "src/*.jsx",
+    "src/*.css"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
