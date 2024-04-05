@@ -83,26 +83,26 @@ const ReactGithubLikeGraph = ({ dataset }) => {
         "DEC",
     ]
     return (
-        <div className="allMain">
-            <div className="SubOne">
-                <div className="weekDays">MON</div>
-                <div className="weekDays">WED</div>
-                <div className="weekDays">FRI</div>
+        <div className="zoopsjdbf">
+            <div className="zoopuyergbuwe">
+                <div className="zoophusberivyush">MON</div>
+                <div className="zoophusberivyush">WED</div>
+                <div className="zoophusberivyush">FRI</div>
             </div>
-            <div className="SubTwo">
-                <div className="SubTwoOne">
+            <div className="zoopmnuweuuec">
+                <div className="zoopmnuweuuecopiunm">
                     {AllMonths.map((ele, idx) => {
                         return (
-                            <div key={idx} className="allMonths">{ele}</div>
+                            <div key={idx} className="zoopkallMonths">{ele}</div>
                         )
                     })
                     }
                 </div>
 
-                <div className="SubTwoTwo">
+                <div className="zoopmnuweuuecreqxztumec">
                     {datesOf2024?.map((ele, idx) => {
                         return <div
-                            className="OneBox"
+                            className="zoop_OneBox"
                             key={idx}
                             style={{ background: `${ele?.type == 'less' ? "#9be9a8" : ele?.type == "medium" ? "#40c463" : ele?.type == "upper-medium" ? "30a14e" : ele?.type == 'hard' ? "#216e39" : "#ebedf0"}` }} 
                             title={`${ele.type} on ${formatDate(ele.currentDate)}`}
@@ -110,7 +110,7 @@ const ReactGithubLikeGraph = ({ dataset }) => {
                     })}
                 </div>
 
-                <div className="SubTwoThree">
+                <div className="zoopmnuweuuechhxfhkwecjhsb">
                     <div style={{ display: 'flex', gap: "4px", marginRight: '7px' }}>
                         <div className='OneBoxOne'></div>
                         <div className='OneBoxTwo'></div>
@@ -118,7 +118,7 @@ const ReactGithubLikeGraph = ({ dataset }) => {
                         <div className='OneBoxFour'></div>
                         <div className='OneBoxFive'></div>
                     </div>
-                    <select id="yearSelect" onChange={yearChange}>
+                    <select id="ZoopyearSelect" onChange={yearChange}>
                         {givenYears?.map((ele, idx) => { return <option key={idx} value={ele}>{`YEAR ${ele}`}</option> })
                         }
                     </select></div>

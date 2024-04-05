@@ -1,5 +1,5 @@
 
-# React GitHub Lik Graph Component
+# React GitHub Like Graph Component
 
 
 This React component provides a visual representation similar to the GitHub contribution graph, displaying daily work statuses using colored boxes. Users can pass a dataset containing date and work type information to render the graph.

@@ -1,4 +1,4 @@
-.allMain {
+.zoopsjdbf {
     border: 1px solid #d0d7de;
     border-radius: 8px;
     display: flex;
@@ -7,7 +7,7 @@
     align-items: center;
   }
   
-  .SubOne {
+  .zoopuyergbuwe {
     width: 38px;
     height: 57%;
     display: flex;
@@ -16,25 +16,25 @@
     align-items: center;
   }
   
-  .SubTwo {
+  .zoopmnuweuuec {
     width: 714.4px;
     height: 100%
   }
   
-  .weekDays {
+  .zoophusberivyush {
     font-size: 12px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
   }
   
-  .SubTwoOne {
+  .zoopmnuweuuecopiunm {
     width: inherit;
     height: 20%;
     display: flex;
     justify-content: space-around;
   }
   
-  .allMonths {
+  .zoopkallMonths {
     font-size: 12px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     display: flex;
@@ -42,7 +42,7 @@
   
   }
   
-  .SubTwoTwo {
+  .zoopmnuweuuecreqxztumec {
     width: inherit;
     display: flex;
     gap: 3.5px;
@@ -54,7 +54,7 @@
   
   
   
-  .SubTwoThree {
+  .zoopmnuweuuechhxfhkwecjhsb {
     width: 100%;
     display: flex;
     justify-content: flex-end;
@@ -62,14 +62,14 @@
     height: 23%
   }
   
-  #yearSelect {
+  #ZoopyearSelect {
     padding: 3px 7px;
     outline: none;
     border: 1px solid #d0d7de;
     border-radius: 6px;
   }
   
-  #yearSelect option {
+  #ZoopyearSelect option {
     border: 1px solid #d0d7de;
     border-radius: 6px;
   
@@ -115,7 +115,7 @@
     animation: fadeIn 1s ease-in-out 0.5s;
   }
   
-  .OneBox {
+  .zoop_OneBox {
     width: 10px;
     height: 10px;
     border-radius: 2px;
@@ -137,7 +137,7 @@
   
   
   @media screen and (max-width: 770px) {
-    .allMain {
+    .zoopsjdbf {
       width: 100%;
       overflow-x: scroll;
     }
