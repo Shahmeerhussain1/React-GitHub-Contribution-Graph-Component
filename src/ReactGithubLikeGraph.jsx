@@ -1,4 +1,4 @@
-import './App.css';
+import './component.css';
 import { useEffect, useState } from 'react'
 
 const ReactGithubLikeGraph = ({ dataset }) => {
