@@ -1,0 +1,26 @@
+{
+  "name": "github-everyday-work-status",
+  "version": "1.0.0",
+  "description": "Component of github everyday work status.",
+  "main": "src/WorkStatusComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahmeerhussain1/github-everyday-work-status.git"
+  },
+  "keywords": [
+    "github",
+    "evryday-work-status"
+  ],
+  "author": "Shah Meer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahmeerhussain1/github-everyday-work-status/issues"
+  },
+  "homepage": "https://github.com/Shahmeerhussain1/github-everyday-work-status#readme",
+  "peerDependencies": {
+    "react": "^17.0.0"
+  }
+}
