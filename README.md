@@ -9,7 +9,7 @@ This React component provides a visual representation similar to the GitHub cont
 Install React-GitHub-Contribution-Graph-Component with npm
 
 ```bash
-  npm install ReactGitHubContributionGraphComponent
+  npm install ReactGithubLikeGraph
 
 ```
     
@@ -18,8 +18,8 @@ Install React-GitHub-Contribution-Graph-Component with npm
 Import the component and use it within your React application:
 ```bash
 import React from 'react';
-import ReactGitHubContributionGraphComponent from 'ReactGitHubContributionGraphComponent';
-import './App.css'; // Include the CSS file if needed
+import ReactGithubLikeGraph from 'react-github-like-graph';
+import 'react-github-like-graph/App.css'; // Include the CSS file if needed
 
 const YourComponent = () => {
   
@@ -36,7 +36,7 @@ const YourComponent = () => {
 
   return (
     <div>
-      <ReactGitHubContributionGraphComponent dataset={dataset} />
+      <ReactGithubLikeGraph dataset={dataset} />
     </div>
   );
 }
