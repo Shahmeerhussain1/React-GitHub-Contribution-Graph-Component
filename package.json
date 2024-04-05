@@ -3,6 +3,10 @@
   "version": "1.0.5",
   "description": "Component of github everyday work status.",
   "main": "src/ReactGithubLikeGraph.js",
+  "files": [
+    "src/*.jsx", 
+    "src/*.css" 
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

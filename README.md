@@ -19,7 +19,7 @@ Import the component and use it within your React application:
 ```bash
 import React from 'react';
 import ReactGithubLikeGraph from 'react-github-like-graph';
-import 'react-github-like-graph/App.css'; // Include the CSS file if needed
+import 'react-github-like-graph/component.css'; 
 
 const YourComponent = () => {
   
