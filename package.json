@@ -1,6 +1,6 @@
 {
   "name": "react-github-like-graph",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Component of github everyday work status.",
   "main": "src/ReactGithubLikeGraph.jsx",
   "files": [
