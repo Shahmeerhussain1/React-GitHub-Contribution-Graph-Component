@@ -1,7 +1,7 @@
 import './App.css';
 import { useEffect, useState } from 'react'
 
-const WorkStatusComponent = ({ dataset }) => {
+const ReactGitHubContributionGraphComponent = ({ dataset }) => {
 
     const [datesOf2024, setDatesOd2024] = useState()
     const [year, setYear] = useState()
@@ -126,7 +126,7 @@ const WorkStatusComponent = ({ dataset }) => {
 
         </div>)
 }
-export default WorkStatusComponent
+export default ReactGitHubContributionGraphComponent
 
 
 

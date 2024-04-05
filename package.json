@@ -1,14 +1,14 @@
 {
-  "name": "github-everyday-work-status",
+  "name": "React-GitHub-Contribution-Graph-Component",
   "version": "1.0.0",
   "description": "Component of github everyday work status.",
-  "main": "src/WorkStatusComponent.js",
+  "main": "src/ReactGitHubContributionGraphComponent.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shahmeerhussain1/github-everyday-work-status.git"
+    "url": "git+https://github.com/Shahmeerhussain1/ReactGitHubContributionGraphComponent.git"
   },
   "keywords": [
     "github",
@@ -17,9 +17,9 @@
   "author": "Shah Meer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shahmeerhussain1/github-everyday-work-status/issues"
+    "url": "https://github.com/Shahmeerhussain1/ReactGitHubContributionGraphComponent/issues"
   },
-  "homepage": "https://github.com/Shahmeerhussain1/github-everyday-work-status#readme",
+  "homepage": "https://github.com/Shahmeerhussain1/ReactGitHubContributionGraphComponent#readme",
   "peerDependencies": {
     "react": "^17.0.0"
   }
