@@ -1,14 +1,14 @@
 {
-  "name": "React-GitHub-Contribution-Graph-Component",
+  "name": "react-github-like-graph",
   "version": "1.0.0",
   "description": "Component of github everyday work status.",
-  "main": "src/ReactGitHubContributionGraphComponent.js",
+  "main": "src/ReactGithubLikeGraph.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shahmeerhussain1/ReactGitHubContributionGraphComponent.git"
+    "url": "git+https://github.com/Shahmeerhussain1/react-github-like-graph.git"
   },
   "keywords": [
     "github",
@@ -17,9 +17,9 @@
   "author": "Shah Meer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shahmeerhussain1/ReactGitHubContributionGraphComponent/issues"
+    "url": "https://github.com/Shahmeerhussain1/react-github-like-graph/issues"
   },
-  "homepage": "https://github.com/Shahmeerhussain1/ReactGitHubContributionGraphComponent#readme",
+  "homepage": "https://github.com/Shahmeerhussain1/react-github-like-graph#readme",
   "peerDependencies": {
     "react": "^17.0.0"
   }

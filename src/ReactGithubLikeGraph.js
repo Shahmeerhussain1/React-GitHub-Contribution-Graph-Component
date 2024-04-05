@@ -1,7 +1,7 @@
 import './App.css';
 import { useEffect, useState } from 'react'
 
-const ReactGitHubContributionGraphComponent = ({ dataset }) => {
+const ReactGithubLikeGraph = ({ dataset }) => {
 
     const [datesOf2024, setDatesOd2024] = useState()
     const [year, setYear] = useState()
@@ -126,7 +126,7 @@ const ReactGitHubContributionGraphComponent = ({ dataset }) => {
 
         </div>)
 }
-export default ReactGitHubContributionGraphComponent
+export default ReactGithubLikeGraph
 
 
 

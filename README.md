@@ -16,7 +16,7 @@ Install React-GitHub-Contribution-Graph-Component with npm
 ## Usage
 
 Import the component and use it within your React application:
-
+```bash
 import React from 'react';
 import ReactGitHubContributionGraphComponent from 'ReactGitHubContributionGraphComponent';
 import './App.css'; // Include the CSS file if needed
@@ -43,7 +43,7 @@ const YourComponent = () => {
 
 export default YourComponent;
 
-
+```
 ## Sample Data
 
 let data = [
