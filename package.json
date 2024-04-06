@@ -1,12 +1,10 @@
 {
   "name": "react-github-like-graph",
+  "License": "MIT",
   "version": "1.0.11",
   "description": "Component of github everyday work status.",
-  "main": "src/ReactGithubLikeGraph.jsx",
-  "files": [
-    "src/*.jsx",
-    "src/*.css"
-  ],
+  "main": "ReactGithubLikeGraph.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
@@ -35,8 +33,14 @@
     "@babel/core": "^7.24.4",
     "@babel/preset-env": "^7.24.4",
     "@babel/preset-react": "^7.24.1",
+    "autoprefixer": "^10.4.19",
     "babel-loader": "^9.1.3",
+    "postcss-cli": "^11.0.0",
+    "postcss-preset-env": "^9.5.4",
     "raw-loader": "^4.0.2",
     "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.24.1"
   }
 }
