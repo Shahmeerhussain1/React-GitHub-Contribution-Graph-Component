@@ -1,7 +1,7 @@
 {
   "name": "react-github-like-graph",
   "License": "MIT",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Component of github everyday work status.",
   "main": "ReactGithubLikeGraph.js",
   "scripts": {
