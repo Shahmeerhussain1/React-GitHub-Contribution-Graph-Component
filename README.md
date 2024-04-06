@@ -17,10 +17,8 @@ Install ReactGithubLikeGraph with npm
 
 Import the component and use it within your React application:
 ```bash
-import React from 'react';
-import ReactGithubLikeGraph from 'react-github-like-graph';
-import 'react-github-like-graph/component.css'; 
 
+import ReactGithubLikeGraph from 'react-github-like-graph';
 const YourComponent = () => {
   
   const dataset = [
@@ -66,3 +64,7 @@ In the given data one object means one day , the first key should be (date) with
 ##### medium = #40c463"
 ##### upper-medium = #30a14e
 ##### hard = #216e39
+
+
+### View
+![Logo](https://scontent.xx.fbcdn.net/v/t1.15752-9/434148031_380134371657588_6161103806945337678_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZfImaBQ0UOIAb4LhFES&_nc_oc=AdgprTqega9JKrIKO7r4rGZM3NVkGqGYITU5Ty8FJlvVc5XvWYaHrVsjMD1WMxmtucaGQ0Kugs-3w88wTbK0srRJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdXRjTIS8W164RKzfzXaJs2b0EqICirr0cJopceYV0in0g&oe=6638532D)
